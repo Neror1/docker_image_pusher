@@ -2,3 +2,4 @@ nginx
 evil0ctal/douyin_tiktok_download_api
 mysql
 redis
+python:3.11-slim-buster
